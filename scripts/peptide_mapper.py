@@ -1,4 +1,4 @@
-#!/Users/igorfesenko/opt/anaconda3/bin/python
+#!/usr/bin/python
 
 # Map peptides on protein sequence and return coordinates
 
