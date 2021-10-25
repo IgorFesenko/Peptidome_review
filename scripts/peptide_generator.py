@@ -1,4 +1,4 @@
-#!/Users/igorfesenko/opt/anaconda3/bin/python
+#!/usr/bin/python
 
 # Generate a list of random peptides from protein database based on peptide fasta
 
